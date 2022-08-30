@@ -1,4 +1,6 @@
-OpenCore 0.8.3 bootloader configured for z690 plus tuf wifi d4 - i7 12700 - rx 6800 hackintosh
+OpenCore bootloader configured for z690 plus tuf wifi d4 - i7 12700 - rx 6800 hackintosh
+
+READ THE READ ME FILE IN THE .ZIP ARCHIVE
 
 Before using this EFI, you'll need to make some adjustments.
 Update your BIOS first!!!!!! Your bios shall have:
